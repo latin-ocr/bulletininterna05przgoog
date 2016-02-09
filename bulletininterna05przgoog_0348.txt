@@ -1,0 +1,56 @@
+511
+
+9=25 ’ (2)
+
+et la droite dirigee de la vibratior] e² l'angle R determine par
+l'equation suivante:
+
+sin R cos g = —— cos fl siu g- sin 2 φ. (3)
+
+Les demi-diametres eonjuguees p et q forment done l'angle 2i-R.
+L'equation (3X deeoule des deux suivantes:
+
+qsiu B == ”- 83'2} 3571?oe
+q cos R = cos Ξ .
+On a done:
+‘1² Ξ 603εέ ÷ ssu-22} 32222 52oe-
+Il est enfin: ” (4)
+
+ὁ
+
+:cos2qpst‘n 2 .
+
+En projetant les vibrations conjuguees el, 62 sur la droite ‹li-
+rigee des vibratione dans l'analyseur (ΘΑ), la droite qui est dans
+l'azimut s aveo ΟΡ, on trouve pour l'intensite (I ) de la lumiere
+emergeant de l’analyseur la valeur suivante:
+
+I= p² (¹082 (zi — s) -Ι- 93 0032 (s —- R). (ὃ)
+
+ξ 2. En nous basant sur la theorie de M. Masoart‚ indiqu‹'›e
+dans le ξ l, nous posons la question suivante: en admettant que
+les directions principales du milieu examine soient parfaitement
+inconnue3‚ comment pourrait-on les trouver? Par l'analogie aveo
+
+π
+
+2
+
+et nous cherchons la condition pour laquelle l'intensite de la lu-
+miere homogene‚ emergeant de l’analyseur, sera nulle ou mini-
+π
+·)
+
+Ν
+
+18 eas de la birefringenee pure, nous posons 3: (niools emises)
+
+mum. On trouve aisement que I est alors minimum pour izn
+
+(n represente un entier queloonquel et que cette valeur minimum
+(le l est
+
+2 sits-³ 2qc.
+
+Io = «1²³ sin-² R = siff-³
+

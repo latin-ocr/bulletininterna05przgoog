@@ -1,0 +1,51 @@
+'55
+
+D'apres les equations 3) et 4) 16 rapport ( ²95⁰) doit 6116
+
+constant3 c’est ce qui se verifie suffisamment, ainsi que l’indique
+la troisieme colonne du tableau. Les petitos differences entre les
+differentes valeurs resultent probablement de ce que la temperatum
+n'e'tait pas suffisamment constante et 18 vitesse de rotation pas assez
+uniforme.
+
+ 
+
+La valeur de l’angle a depend de la concentration du collodion.
+En le diluant par l'addition d'un melange d’alcool et d’ether nous
+avons obtenu une solution qui (1011116 une valeur de l'angle a egale
+8 29⁰ lorsque 16 cylindre interient· tournait a raison de ’ΖΟ 10018
+par seconde.
+
+Il m'etait impossible de trouver entre l'angle a et zero une dif-
+ference appreciable pour les trois autres liquides examines, meme
+en faisant tourner le cylindre avec une vitesse de 150 tours par
+seconde. On peut donc supposer que, si cette difference existe, elle ne
+surpasse pas 18 limite de 2⁰, la sensibilite de l'appareil n'etant gnere
+plus grande dans 16 088 (168 11(101(168 0010168. La 1611116ἀ6 passage
+de 18 181116 de Bravais cesse alors d'etre violette et change 88
+00111601 (1’8Ρ168 06116 (10 liquide.
+
+L'equation 3) nous donne evidemment le moyen d'evaluer la
+(111166 (10 temps de relaxation T. Nous avons
+
+a„=2nn;
+
+d'autre part, (18118 notre appareil‚ les deux rayons avaient les va-
+leurs numeriques suivantes
+
+a = 206 cm.
+
+b = 265 cm.‚
+par consequent nous trouvons pour le collodion a 18 temperatura
+(16 20·6 O. 18 valeur suivante
+
+Τ = &002 860 .
+
+En admettant que pour 168 trois mnes liquides on ait a <2⁰‚ 11008
+obtenons pour 068 liquides la limite supet-iente que voici:
+
+Τ < 0·00001 860 ;
+
+la valent· de Τ est probablement beaucoup moindre que cette limite.
+Apres avoir effectue les experiences decrites dans cette commu-
+

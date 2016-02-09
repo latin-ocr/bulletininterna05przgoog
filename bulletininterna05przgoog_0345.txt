@@ -1,0 +1,45 @@
+508
+
+bivora. Should, as I hope it will, be found that my assumption
+concerning the corelation of phylloerytrine to chlorophyll is correct.
+I shall propose to drop all other names and to retain „phylloery-
+thrine“ only. I hope to be able to return to this subject at a not
+very distant date.
+
+46. ΜΜ. C. KRAFT et C. ZAKRZEWSKI. Metoda wyznaczania klemnkow
+glownych i statych optycznych w przypadku podwojnego zalamama
+polaczonego ze skreceniem. (Une methodo poue· determinet· les
+directions pvincipales et les constantes aptiques dans le cas
+cle la &refe-moeno& combine'e avec le pouvoit· rotatot‘re). Mdmoire
+presente par M. A. Witkowski m. t. a la scance dn 7 Novembre 1904.
+
+ξ 1. Les effets optiques produits par un corps douc a la fois
+de la birefringence et du pouvoir rotatoire sont explique85 quand
+on admet que la lumiere se propage dans ces corps conformement
+a l'hypothese d’Airy. Nous admettrons donc cette hypothese et nous
+decrirons une methodo simple qui permet de fixer les directions
+principales des corps et leurs autres constantes optiques, caracteri-
+stiques pour ce genre de propagation de la lumiere.
+
+Nous supposerons toujours dans la suite qu’une onde lumineuse
+plane traverse normalement une conche du corps examine a faces
+paralleles au plan des axes optiqueS. D'apres l'hypothese d’Airy.
+une vibration rectiligne et homogene qui entre alors dans le corps
+s'y decompose en deux vibrations elliptiques qui presentent les
+caracteres suivants:
+
+l) Les mouvements sur deux ellipses s'effectuent en sens con·
+traire.
+
+2) Elles se propagent dans le milieu avec des vitesses differentes3
+la forme et l'orientation des ellipses ne varient pas dans le milieu.
+
+3) Ces ellipses sont semblables et leurs grands axes sont per-
+pendiculaireS.
+
+On appelle les directions de ces axes les directions princi·
+A les (x. y) du milieu.
+
+Soient:
+1) k=t9q2 le rapport du petit axe au grand axe, le meme
+

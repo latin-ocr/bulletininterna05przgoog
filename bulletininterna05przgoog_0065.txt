@@ -1,0 +1,49 @@
+50
+
+7. M. CONS'PANTIN ZAKRZQWSKL Ο pelozeniu osi optycznych w cie-
+czach odksztalcanych. (Su-e· la position des ames opto’ques «lans
+les liquida ddforme‘s). Menoire presente par Π. Δ. Witkownki ιιι. t.
+
+La theorie developpee par M. Lad. Natanson dans son me-
+moire ¹) intitule: „Sur une particularite de la double refraction acci-
+dentelle dans les liquidos, pouvant servir 6 16 determination de
+leur temps de relaxation“ permet- de determinet 16 position des
+axes optiques dans les liquides deformes Dans 16 666 d'un liquide
+place entre deux parois cylindriques concentriques et deforme par
+la rotation uniforme des cylindreS‚ les maxima d'obscurite obser-
+vables entre deux nicole croises doivent, d'apres cette theorie, coffnci-
+der avec les points, definis par l'equation suivante:
+
+(1) cotg 22=‡T[{{—{]
+
+011 χ represente l’angle (compte (1666 16 6666 oppose a celui dans
+lequel tournent les aiguilles d’une montre) que fait le rayon r mene
+par 16 point considere du liquide et la section principale de l'ana-
+lyseur3 q - 16 vitesse de la particule liquide considet-ee et T 16
+dureo du temps de relaxation qui est une constante caracteristique
+du liquide. Dans l'equation 1) 11 faut prendre le signe -Ι- si 16 ro—
+tation s'effectue dans le sens contraire a celui dans lequel tournent
+
+les aiguilles d'une montre et le signe -- (1666 16 666 oppose. Pour
+
+determinet 16 valeur du terme [sd—q— g} il suffit 66 premiere appro-
+
+dr r
+ximation de s'appuyer sur 16 theorie classique de la viscosite qui
+donne:
+
+ 
+
+(2) -ᾀ-ἕς-ρ---ΞαῖὂἾφ-σᾼ
+
+011 α et b representem les rayons des cylindros et σ,, σδ leurs vi·
+tesses angulaires. Dans le cas 011 16 cylindre interient seul execute
+un mouvement de rotation, les equations l) et 2) donnent:
+
+(3) cotg mag—{2333}
+
+Lorsque la distance entre les cylindres est petite par rapport a leurs
+rayons‚ le second membre de cette equation possede pour tous les
+
+²) Bullatin lnt. de l'Acad. d. Sc. de cracovie pour 1904, p. 1.
+

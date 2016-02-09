@@ -1,0 +1,49 @@
+47 2
+
+Dieee Krafte sind die im Koordinatenanfang an der Messe m
+angebrachten Zentrifugalkrafte‚ die durch die Rotation der Erde
+um ihre Achse erzeugt werden. Die Erdechwere ist hiernach die
+Reeultante aus der Erdattraktion und der auf den Koordinatenan-
+anfang wirkenden Kraft.
+
+ξ 6*. Fur die zusammengesetzte Zentrifugalkraft von Coriolis
+finden wir nach (31):
+
+Xe=-2mwsin‹p‘{-32 > ⁶
+(12*)] Yc= 2mw(sin φ (ΞΑ-εοεφὲ-ῗ)
+Z„=—2mwcos‹p⁶(li-·²{.
+
+Die Richtung dieser Kraft erhalt man nach der in ξ 6 ausge-
+stellten Regel.
+
+ξ 7³2 Fur die Komponenten der durch Rotation des Massenpunk-
+
+tes nm die instantane Achse erzeugten Zentrifugalkraft erhalten
+wir nach (35):
+
+Xs=mm²sin²‹p.x-{—mw²sin‹pcos‹p ‚z
+(ffifi Z=mffy
+Z, =mw²cos²<p.z-{—mw²3in‹pcos‹p.x.
+ὅ 8. Die Ande-rung der Bewegungsgrbsse (29) kommt in diesem
+
+Falle garnicht vor, daher fallen die letzten Glieder auf der rechten
+Seite der Bewegungsgleichungen (41) fort, und wir erhalten fur let-ztere:
+
+d²x dy
+
+dt} εωῖεἱηῖφω-ἦ-ωὲεἱφιφοοεφ.κ-2ω3ἰηφῑέ
+4, dssy— . da} dz
+(14) ἆῤ ᾗ-ωῑμ-ᾕ-2ωεῑηφᾶῖ-Ι-Βωοοεφίῇ
+d²z dy
+
+ff=q†w²cos²m.z-†-w’sinmcosoew—2wcosmc-st.
+
+Fur den F o u c a ult schen Pendelversuch kommen noch rechts
+
+die Glieder —R315‚ -Ιιέῃῖ, -R ἶ hinzu. Die Gleichungen (14⁴¹)
+
+stimmen im wesentlichen mit den von Poisson 1) ausgeetellten
+
+¹) Poimen, Journal de I'Ecole Polytechnique‚ cahier ᾖ, p. 153 1838.
+vgl. auch Jullion‚ l. c,
+

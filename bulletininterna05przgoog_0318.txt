@@ -1,0 +1,49 @@
+s481
+
+von der kleinen Komponente der Coriolissehen Kraft nach Suden her-
+rubrende ist, aber doeh ganz im Bereieh der Beobaehtungsfehler liegt.
+
+Dieselbe Gressenordnung (0‚01 mm) fur die sudliehe Abweiehnng
+findet Bertram¹) fur 10 Sekunden Falldauer und <10:450 Emito,
+wenn die Erde nieht als Kugel sondern als Rotationsellipsoid angesehen
+und im ubrigen nur die Coriolissehe Kraft berueksiohtigt wird.
+„Noeb andere Resultate ergeben sieh“ nach Helmert²)‚ unter
+Zugrundelegung der Gaussischen Gleiehungen‚ „wenn man auf die
+infolge der Abweiehung von der Kugelbesohaffenheit stattfindende
+Krummung der Kraftlinien Rueksieht nimmt und wenn man die
+Abweiehung nieht gegen die Lotriehtung des Anfangspunkte8‚ son—
+dern gegen ein daselbst hangendes bis zum Niveau des Erdpunktes
+reichendes Lot miset. Die Grbssenordnung der Resultate ist aber
+in diesen Fallen dieselbe wie heim Gaussisehen Resultat“.
+
+ξ 16³. Das in ξ 12 entwiekelte Integra] (47) lasst den Zusam-
+menhang zwisehen der Dauer des Falles und der sudliohen Abwei-
+ehung erkennen.
+
+Werden fur p, q, r die VVerte (δ’) sowie die Beziehung (δ’)
+fur R=o und (ist) in Gleiehung (47) gesetzt‚ so folgt fur den
+einzelnen Massenpunkt:
+
+coquf-gz—sinoeZ-{Zz—qsinq). (23⁴²)
+
+Der Kssrper sei in dem Koordinatenanfang Ο losgelassen‚ daun
+ist der· Anfangszustand zur Zeit τεο durch die Beziehungen
+
+x=y=z=0
+35=33=555=0
+
+gegeben. Alsdann folgt aus (23³5 nach zweimaliger Integration:
+
+t² = 2 (z *⁴9ae εἰς φ). (25⁴⁹)
+
+x==y.mtsin<p‚ und da y = {ymff‘cos φ, 80 folgt x: ἑῃῶϋείπφοοεφ, und der
+von Gauss berechnete Wert ist genau die Halfte von diesem.
+
+¹) H. Be nram, l’robleme der Meehanik in Bezug auf die Variation der
+Schwore und die Rotation det Erde. Jahresborieht d. stadt. hoheren Bai-gerochum,
+
+Berlin 1869.
+¹) Holmoi-t, Meteorologisehe zeitschrift, 2, p. 3123 1885.
+
+annuatia 111. 3
+

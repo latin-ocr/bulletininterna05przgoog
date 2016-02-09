@@ -1,0 +1,48 @@
+451
+
+Phanomen des Foneaultsehen Pendels und die sudliehe Abwei—
+ehnng eines frei fallenden Kerpers auf der nbrdliehen Hemisphare
+in Zusammenhang gebracht.
+
+ξ 1. Wir betraehten zunaehst die Bewegung eines freien Punkte53
+sind noch gewisse Bedingungsgleiehungen vorhanden‚ so kennen 1111·
+(1611 wirkenden ausseren Kraften noch die den Bedingungsgleiehnn-
+gen entspreehenden hinzufngen. Die Entwiekelungen werden dann
+auf ein System von materiellen Punkten ausgedehnt.
+
+Zu einer Zeit t seien nnn ω’, y', z‘ die Koordinaten eines
+Massenpunktes in bezug auf ein absolut festes Koordinatensystem3
+x, y, z die relativen Koordinaten desselben Punkte3‚ (1. 11. bezogen
+auf ein bewegliches Koordinatensystem‚ dessen Anfangspunkt 0 in
+bezug auf das feste System die Koordinaten xo, 310, z„ hat, und
+seien sehliesslieh die Transformationsgleiehungen beider Systeme:
+
+ω’ΞωΟ-Ι- aa: -†—by -Ι- cz
+y‘=y0 -†— a'oe -{—-b‘y -{— c'z (1)
+ε’ = zo -†—a''ae—{—b''y—{=- 0¹¹2.
+
+Die Grissssen xo, yffi zo und a, b, c‚... werden als bekannte Funktio-
+nen der Zeit t vorausgesetzt‚ welche die Lage der bewegliehen
+Aehsen bestimmen3 ausserdem fug-en wir zu (1) die bekannten Rela-
+tionen hinzu:
+
+a²-†-a'²-†-a‘'²=l (2)
+bc -†- b‘c' -1- b'‘e‘'.= 0 (3)
+c‘·a'‘·—- a‘c“ = b· (4)
+
+ξ 2. Bevor wir die Bewegungsgleiehungen entwiekeln, sollen
+zunaehst einige bekannte‚ zwisehen (1611 Coe. in (1) und deren Ab·
+leitungen herrsehende Relationen ausgestellt werden, von denen naeh-
+her Grebraneh gemacht wird.
+
+Unter Berueksichtigung der Relationen (3) setzen wir:
+
+Ι ΙΙ Ι ΙΙ
+θὲῗ1θῗιῗ -Μῗῗῐῖ *⁶ Ξῖ -θῖιῖ-Ψξῖ ²1⁰
+dc , dc‘ u dc¹¹ - da , da' ''da'' — -
+“dt''’a ‹iffi—‘² *d‘t '‘—Cdt ‘⁶ {ii-‘⁰ 'di -q (ο)
+Ι ΙΙ Ι ΙΙ
+61111611Ξ-αΞῑ-ωῖῖ-Μὲιεν-
+
+1⁴}
+

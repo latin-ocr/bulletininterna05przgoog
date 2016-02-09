@@ -1,0 +1,44 @@
+46
+
+6, Μ. M. Ι. ΜὈἑΟΙΟΚΙ et M. ALTENBERG. Ο zatratach dyelektrycznych
+w kondenzatorach pod wplywem dzialania prqddw zmiennych. (fiber
+dielelctffieclae Verluste in Kondenaeatoren uniet· dei· Einwirkuny
+von Weolcselstrb'men). (Sur les perte& die'lectrt'quos dans les condensa·
+tour-⁹ soumis ὰ l'action des coarants altentattij). Memoire presente par M.
+A. Witkowski m. t
+
+In dieser Arbeit wird eine neue Messmethode beschrieben‚ die
+zur Ermittlun'g der Verluste in Kondensatoren dient. Die Methode
+zeichnet sich durch grosse Genauigkeit‚ durch Anwendbarkeit hoher
+Potentialgefalle und durch Vermeidung komplizierender Nebenwir—
+kungen wie z. B. Oberflachenleitung aus. Diese Vorzuge konnten
+durch Anwendung einer Spezialform des Kondensatorelementes er-
+reicht werden. ’
+
+Der Kondensator‚ der zu den Versuchen angewendet wurde,
+,bestand aus einer breiteren dunnwandigen Glasrbhre als Dielektri-
+cum² an welche am oberen Ende eine schmalere, aber dickwan-
+dige Rohre angeschmolzen war. Der aussere Belag‚ der durch Ver-
+silberung nach fflttgerscher Methode hergestellt war, erstreckte sich
+bis auf die dicke Rbhre. Es hatte das zum Ziel, die Durchbruehs-
+festigkeit des Dielektricums am Raude zu verstarken 1). Als innerer
+Belag wurde Quecksilber verwendet. Der aussere Belag hatte zwei
+Stromabnahmen‚ eine oben und eine unten,·die aus Kupferblech-
+bandern mit angelzsteten Kupferdrahten bestanden3 nach innen
+wurde der Strom durch einen in Quecksilber eingetauchten Kupfer-
+draht zugefuhrtsVergl. Fig. 1. Die Versuche wurden an 3 K0n÷
+densato'ren‚ deren Wande 0-29, 032 bezw. 0‘48 mm dick waren,
+angestellt. ’
+
+Die Messmethode beruhte auf der Temperaturmessur'ng der Er·-
+vvrzirmung² welche nach einer gewissen Zeit (3 bis ἴ) Minute'n) des
+Durchganges eines Wechselstroms durch den Kondensator an‘ einem
+im Quecksilber angebrwbten Thermemeter abge1esen wurde. Um
+nun auch genau zu wissen. was fur Euerg-ie einer gewissen Wurme-
+zunahme entspricht‚ wurde der Kondensator mit Gleichstrom in
+dieser Richtung hin kalibriert. Es wurde durch den ausseren Belag
+des Kondensators als Ohmschen XViderstand ein Gleichstrom von
+
+¹) Ver-gl. Mosscicki. Studien tiber Dnrchbruchsfestigkeit der Dielektriea (Bull. de ⁹
+l'Acad. des Sciences de Cracovie 1904, p. 42).
+

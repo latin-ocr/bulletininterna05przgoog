@@ -1,0 +1,45 @@
+469
+
+Alsdann-haben wir fur die Systeme 0‘ (σε’, y', ε’) und O'(x1‚ y„ 21),
+wenn noch mit t die Zeit bezeichnet wird‚ das Transformationssohema:
+
+Ξ a'51 Ul ²1
+σε’ ξ ωε ξ-ξ-ωι ἶ (1⁴·)
+y' . {—wt cot ξ
+d? ἒ ἓ ⁰
+
+Sind h und k die Entfernungen des Koordinatenanfangs 0 (und
+gleichzeitig des Ortes P und eines jeden in dessen Nnhe liegenden
+Punktes) von der Erdaohse bzw. von der AquatorialebenQ so gilt
+fur die Systeme 0‘(oe,. y„ ει) und (Nx, y, z) das Transformations-
+schema:
+
+π-φ Ωῆ
+
+ξς
+mu
+
+temonem
+ωε
+
+ἓψφ
+
+Ans den vorstehenden beiden Tabellen folgt fur die Beziehungen
+zwischen den festen Koordinaten ω’, y', z' und den beweglichen
+x, y, z irgend eines MassenpunkteS, indem gleieh die Cos, der Win-
+kel angeschrieben werden:
+
+Ι x y Ζ
+x' —— ατο - cos wt sin φ - sin ωε - eos wt eos φ (3*)
+y' - y„ ⁴ -ῥ sin cot sin φ cos wt — sin cot cos ‹p
+z' — 20 cos ‹p ο —- sin ‹p
+
+Dieses Transformationsschema gilt fur das Problem eines jeden
+Punktes an der Oberflaohe der rotierenden Erde‚ also auc-,h fur das
+Problem des Foucault seben Pendelversuohe8‚ fur das noch die
+Bedingungsgleiohung
+
+2h÷ffl4w½=ffi μη
+
+hinzutritt, wo l die Lange des in Ο ausgehangten Fadenpendels
+

@@ -1,0 +1,46 @@
+464
+
+sich drehende Massenflache zu, weil umgekehrt 8616116 61116 Trag-
+heitsellipse ergibt. Dureh Einfuhrung einer selehen fingierten F orm
+der Messe kann der durch (35) gegebene Teil der allgemeinen
+Bewegungsgleichungen versinnbildliebt werden‚ was sich bei man-
+ehen Problemen fur die Vorstellung bequem erweisen kann.
+
+ξ 10. Mit Berueksiehtigung der Gleiehungen (23) und (35)
+lauten die allgemeinen Bewegungsgleiehungen (22), ausgedehnt auf
+ein aus diskreten Punkten bestehendes Massens3stem:
+
+ΜάιὲΞΣΧ-“ΣΧΗ’Ξ ‘²²²
+-Σ2Μ(9ᾱι“’ ἐξ) -mesp ἅμ’-9οη)
+(41) ΔΜ-ἳ-ΞΣΥ- 2Y0÷2oe2gm
+-Σ2Μ(ῗιῗ-Ρῖ ἶ-) ΣΝ ⁰⁶*ssss ἶῖῗ)
+‚aff-33:22 -ΣΖᾼ-Ξ- ω-’ΞΣΖ-
+-2'222200 <ay-qm) Σψθὲῗ- ³³2)-
+
+Hiernaeh nehmen die Bewegungsgleiehungen fur die relative
+Bewegung dieselbe Form wie fur die absolute Bewegung an, wenn
+zu den wirkenden ausseren Kraften ΣΧ, ΣΥ, ΣΖ noch hinzuge-
+fugt wird:
+
+l) die auf den Keordinatenanfang wirkende Kraft3
+
+2) die instantane Zentrifugalkraft des Massennlittelpunkte83
+
+3) die zusammengesetzte Zentrifugalkraft des Massenmittel-
+punktes;
+
+4) die instantane Tangentialkraft des Massenmittelpunkte&
+
+Fur eine konstante Winkelgesehwindigkeit fnllt diese Tangential·
+kraft, also das letzte Glied in den Bewegungsgleiehungem fort.
+
+ξ 11. Prinzip der lebendigen Kraft. Multiplizieren wir
+die zunaehst fur einen einzelnen Punkt x, y, z genommenen Glei-
+
+Ι chungen (41) der Reihe nach mit Ξῖ, ἐξ, Ξῖ
+
+wie die Beziehung fur das Quadrat der relativen Geehwindigkeit
+eines einzelnen Punktes:
+
+und beaehten (37) so-
+

@@ -1,0 +1,49 @@
+58
+
+Dans un celebre memoire1) Ja.‹=.0bi met 66 polynome en relation
+aveo la fonction Y„ somme des termes en ψ, y'‘†¹‚... y⁹'¹ dans le
+developpement de Maelaurin correspondent 6 16 fonction transcen-
+dante
+
+{10g(l÷y)}”‚
+
+de sorte que 16 differenee des deux expressions soit une serie
+entiere de 16 forme
+
+(3) {10g(1-}-y)}”—Y.=02y¹‘—}—a„÷1y¹*¹—}-av÷²y1›÷⁸-}-...
+La relation en question consiste en 16 congruence arithmetique
+(4) F„(1-}-y):—nL7 Y„ (mod p). ᾖ
+
+L'importance de 16 feeonde dee-ouverte du grand geometre ressor-
+tira en considerant le 666 particulier de n .-.- m, ou l’on fait
+
+ἓξ] = m ³
+16 resultat de J acobi devient? dans le 666 considere,
+(5) Q (x) τ - ᾗ, y„ (ω - 1> (mod. Ρ),
+
+ou Q (x) desig-ne le polynome interessant
+
+(6) Q(ae)=}†(j{)aev.
+
+Les eoeffieients de 66 polynome etant 1 ou —1‚ 16 congrueuee (5)
+le determine sans ambiguite des qu’on possede l’expression du po-
+lynome Y„ (ze-1).
+
+Dans 66 qui suit, je vais demontrer 16 congruenee de Jacobi (4),
+et j'y ajoute quelques consequenees du theoreme (ὃ).
+
+l. La congruenee (l) donne immediatement
+
+1 μ 1
+’θἰηἷιῖν ’ῗᾷνπ
+
+(m0d· Ρ),
+
+αιηαν ᾖ
+66 qui permet de remplaeer la fonction F„ (x) par 16 suivante
+
+(Ψ) Φἰ (x) ΞΣ 2²³7. ,
+
+¹) Ueber die Kreisthoilung und ihre Anwendung auf die Zahleutheorie (Jour-
+nal de crolle, T. 30, 1837; Werke‚ T. 6, p. 254).
+

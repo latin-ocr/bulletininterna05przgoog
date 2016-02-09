@@ -1,0 +1,45 @@
+461
+
+ᾗωὓιεζρῖΣηιψψεΉζφΣνηωψεἨ (34)
+
+«ΡΞ νῖΣΜ (92-Ρωῖ) -ΨΣηψ-“ ΡνΣπιπε-ΡφΣωμ,
+
+wo in (33) und (34) die Summen sieh uber alle Massenpunkte des
+Systems erstreeken.
+
+Die durch (34) gegebene und fur die Zeit t geltende Euergie
+kann man sieh durch Drehung der Masse um die instantane Aebse
+erzeugt denken‚ und zwar sei sie positiv gereohnet, wenn die Drehung
+im positiven· Sinne um die instantane Aehse erfolgt‚ also im Sinne
+der Drehung des bewegliehen Koordinatensystems (vgl. ξ 5).
+
+Bilden wir in bezug auf (34) die partiellen Differentialquotienten
+nach den Koordinaten der einzelnen Massenpunkte (wobei die Win-
+kelgesehwindigkeit sowohl bei der Differentiation wie bei der Sum-
+
+mation uber die einzelnen Massenpunkte konstant zu nehmen ist),
+so erhalten wir:
+
+3ss2q22'n2x÷›022'2222-20q2my--w2mz
+{- ⁶⁰²2 }J=P²2 my÷r²³2 my-qr2'm2—12q Σ m· - (35)
+ἑ ωΞΣ ΞζῐνΣ mz÷ qzz'mz ω-ΡνΣω-φΣωμ.
+
+Die reehts stehenden Ausdrue'ke sind aber dieselben, die in der
+zweiten Klammer der Gleiehungen (22) vorkommen‚ wenn wir letztere
+auf ein System von Massenpunkten ausdehnen.
+
+Ftihren wir auf der rechten Seite der Gleiehungen (35) die De-
+
+finitionen (30) des Massenmittelpunkts ein. dann kennen wir uns
+(35) auch aus dem Ausdruek:
+
+ΞΜΞ Ξ 2⁰2M<222÷ffi÷2 q²2v1<52÷c2v÷
+÷ Ξ r²³¹<⁷2²ff²> - qran—wuugz - ρᾳΜξη (3422)
+
+entstanden denken. den wir als die instantane Rotations-
+
+energie des Massenmittelpunkts bezeichnen wellen.
+In dem Ausdruek (3421) wird I' definiert durch
+
+l‘ = MQ2, wo
+

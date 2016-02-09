@@ -1,0 +1,45 @@
+480
+
+Ist v die vert-ikale Gesehwindigkeit des sich abwztrts bewegen-
+den KbrperS, so ist der Hauptanteil der Corioli ssehen Kraft
+gleieh 2 mv ω cos φ (vgl. 12⁶³). und die Grbsse der Abweiehung wird
+in erster und geuugender Annaherung durch die Gleiehung gegeben:
+
+(21³) (ἔξ-ζ = 2mv ω cos φς
+
+da v=9t ist, so folgt die Formel von Gauss:
+y—-ssmcosqaqffi's ⁹
+
+oder3 da τῖεῗ ist‚ die Formel von Laplace:
+
+(22³⁶) y Ξ ἕ ωσοεφεχβ ΞΖ.
+
+ξ 15³. Was nun die sfldliehe Abweichung betrifft. so kann diese-
+ausser in der vorhin erwahnten kleinen sudliehen Komponente der
+Coriolis seben Kraft noch in dem hier besehriebenen Foueault-
+sehen Phanomen. d. i. in der Rotation des fallenden Kbrpers um
+die Vertikale mit der Winkelgesehwindigkeit cosin φ gesucht wer—
+den. Theoretiseh findet demnaeh eine sudliehe Abweiehung statt.
+aber es durfte wohl schwer gelingen, das hier besehriebene -Fou-
+oault sehe Phanomen durch das Experiment der fallenden Kbrper
+darzustellen. Der von Reieh zwar angegebene, doeh keineswegs
+als sieher hingestellte Wert von etwa 4 mm ist fur die hier in Frage
+kommende sudliche Abweiehung gewiss zu gross. Diese Abweiehung
+wurde einer Drehung „der ebenen Masse“ um die Vertikale um
+
+4,374
+tqu: 5859&
+um denjenigen Winkel‚ den ein Fouoaultsebes Pendel in Frei-
+berg etwa in Ἃ Stunden besehreiben wurde. In 6 Sekunden be-
+sehreibt das Pendel (fur φ :7500 und 120 fur die Stunde gereehnet)
+einen Winkel von &02⁰3 d. i., in Bogenmass mmgedrtiekt7 gleieh
+0.00035; wird diese Abweiehung auf einen Bogen3 dessen Radius
+gleieh der von Reieh beobaehteten &stliehen Abweiehung von etwa
+28 mm ist, bezogen‚ so erhzsst man fiir die sudliehe Abweiehung
+etwa Ο.Ο1 mm, d. h. einen Wert, der zwar doppelt1) so gross als der
+
+also ψ--οα 8⁰ in 6 Sekunden entspreehen, d. h.
+
+¹) Wird dio siidliehe Abweiohung (x) gleioh der Lange des Bogens gemat,
+dessen Radius gleich der Gr6sse der &stliehen Abweichung (y) ist, so ist
+

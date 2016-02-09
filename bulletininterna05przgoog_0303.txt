@@ -1,0 +1,42 @@
+466
+
+Massenpunktes gleieh dem Produkt aus der Masse und Summe
+der Produkte der Projektionen der doppelten vom Radius vector
+beschriebenen Flachen und der Winkelbesehleunigung (168 beweg-
+lichen thsensystems um die instantane Achse.
+
+Mit Hilfe von (44) erhalten wir dann fur (43):
+
+(45) d(2'-2m02)—}w2d1=2'(x-X0>dx÷
+-μΣα-Υμιμ-ι-ΣΜ- Ζωε--ἅὲ 2'm(·yd2- My)-
+
+—3327mszdx— φάε) ——g-t27—mssvdy ydoe).
+
+Ι81 (116 Winkelbesohleunigung unabhangig von der Zeit. so fallen
+die (11·61 letzten Glieder auf der rechten Seite fort‚ und 68 bleibt:
+
+(46), d (ΣΞ mcv -- ᾗ Ιω2)--Σ(Χ-Χο)αω-ι-
+-ι-Σωτ- 1²0) dy÷2(2-Z„) «12
+
+Ι11 WVorten: Die Ruderung der gesamten kinetisehen Euerg-ie² die
+gleieh ist (161· Summe der kinetisehen relative-n Euerg-ie und der
+entgegengesetzten instantanen Rotationsenergie, ist gleich der Summe
+(161· Arbeiten der wirkenden {iusseren und (161· auf den Koordina-
+tenanfang wirkenden Kraft.
+
+Die auf der rechten Seite der Gleiohung (45) stehenden ana·
+lytisehen Ausdrueke finden wir bereits in der ersten Arbeit von
+Coriolis1) vor. Auch operiert Coriolis mit dem Ausdruok fur das
+Tragheitsmoment (163 Κί)1·ρ61·8; 61· spezialisiert indes 861116 Betraoh-
+tung daduroh‚ dass 61· (116 bewegliehen Aehsen zu den Haupttrag-
+heitsaehsen (168 Κὸ1ρ618 11186111, wodureh ihm wahrseheinlich die
+Bedeutung der ubrigen Glieder entgeht. Dieses fallt um so mehr
+auf, da Coriolis2) vorher den Ausdruok fur die „vitesse d'entrai-
+nemenv‘ des Punktes x, y, ε aufstellt (d. i. einen Ausdru0k‚ (1688611
+Ηῇ1116, 11111 (161· Masse des Punktes multipliziert, die lebendige Kraft
+des mit (1611 bewegliehen Aehsen fest verbundenen Punktes ergibt);
+61· bemerkt auch, dass der Ausdruek fur „le moment virtuel“ der
+
+ι) Coriolis l. e. 21, p. 284.
+²1 Coriolis l. 6. p. 285.
+

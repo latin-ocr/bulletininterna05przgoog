@@ -1,0 +1,50 @@
+483
+
+Lokomotive (Masse m), wobei der Ort P als Koordinatenanfang
+genommen werde, aus:
+
+Die Wirkung auf die Sehienen im Punkte ω. y erhalt man, in-
+dem man die beiden Gleiehungen einzeln quadriert und dann addim,
+wobei aber —— wie man sieht — die Glieder mit co2. welche das
+Foueaultsehe Phanomen representiereQ ganz ausser Betraeht
+kommen. Diese Grundlage zur Bereehnung des Sebienenwiderstandes
+hat bereits Brasehm an n ¹) angegeben. Die von Martae besehrie-
+bene reehtsseitige starkere Einwirkung auf der Hamburg-Harburger
+Eisenbahn sowohl auf die Lokomotivrfider wie auf die Schienen-
+wanderung, kann nur durch die Coriolissehe Kraft verursaeht
+worden sein. und fur den Seitendruek D erhalt man aus (26³⁵)
+
+den Wert
+D=2mcwsinq>. · (274‘)
+
+Das von Martus angewandte Raisonnement bildet gewisser-
+massen den Versueh‚ aus dem Foueaultsehen Phanomen die
+Kraft von Coriolis zu ersehliessen. was aber unmbglieh ist,
+ebenso wie das Umgekehrte‚ aus der letzteren die ⁷,Drehung der
+Sehwingungsebene“ des Pendels zu erweisen.
+
+Ein mit der Theorie der relativen Bewegung eng verknupftes
+und fur die Technik jedenfalls wiehtigeres Problem als das eben er-
+wahnte bildetJdie neuerdings von F. Kfitter 2) - unter Benutzung
+des von Klein und Sommerfeld·in der Kreiseltheorie ange-
+wandten Im'pulsbegriffes —— behandelte „Kreiselwirkung derrRader-
+paare bei regelmassiger Bewegung des Wagens in kreisfi3rmigen
+Bahnen“.
+
+4. Um einen Unterschied zwischen der Coriolissehen Kraft
+und dem Foueaultsehen Phanomen hervorzuheben, sei noch die
+folgende Tatsac-he bemerkt: Lasst man z. B. in der Umgebung des
+Nordpols auf der reibungslos gedaehten Erdoberflache eine Kugel
+nur unter dem Einfluss der Coriolissehen Kraft (2mc‘co) mit
+
+¹) Braschmann‚ comptos Rendus (Paris) 53, p. 1068; 1861. ι
+Vgl. auch: F. Klein und A. Sommerfeld, Uber die Theorie des 1(ῐοί-
+
+sels. Heft 1, p. 1893 Leipzig 1877.
+Fet-ner: Α. Ritter, Lehrbueh der analytischen Machanik‚ p. 1533 Leip-
+
+zi 3.
+g 12ῗ81·ἰ·ὶῑκ Romen Sitzungsberiehte der Berliner Mathematiachen 963811-
+sebast, 3, p. 363 1904.
+3* ’
+

@@ -1,0 +1,44 @@
+17
+
+du mouvement considere3 elle n'implique nullement l'hypothese de
+l'ineompressibilite intrinseque du liquide.
+
+maeonis-nous maintenant dans l’hypothese que nous avons pro-
+posee en 1901 ¹) et qui consiste a admett1·e3 pour les eorps fluideS‚
+la validite de la loi de Hooke, a la condition, bien entendu, de
+l’appliquer non point aux composantes de la deformation apparente
+(comme on le fait habituellement pour les solides parfaitement
+elastiques) mais bien a celles de la deformation veritable. Nous
+
+aurons alote, au point considere,
+
+pn-—po-z—aeeJ-OE-—fim G* - (Sa)
+p„ —po = — 212 eff —- (k - ᾖ n) 8* (ghi
+Pru Ξ “ · ”722⁹ (80.)
+
+οὺ k designe le module de compressibilite‚ n le module de rigidite
+du fluide, p„ une constante eonvenablement choisie. Convenons de
+representet par [s] la limite vers laquelle tend une quantite quel·
+conque f par l'effet de la relaxation. Nous aurons
+
+[Ρη] =[p„.]==p et (9)
+[επ] = [eff] ς [w] ³ (ιο)
+de la nous eoneluons que l'on a
+p=p0—k·[0*] (11)
+ee qui, en vertu de l'equation (7)τ peut se mettre sous la forme
+p=p0—k9*. (12)
+
+Eerivons maintenant les (aquatione (8) de 66 paragrapho en les
+rapportant aux axes Ajlc definis plus haut au ἓ 4. Nous aurons
+
+Pfl—Po=-2⁷2⁸5*-(k-}²2) Θ* (1322)
+p„ ··-1›0=—2n ‹eff—(k -ξιὴ 6* (1310)
+ij = ·- ²²71? (130)
+
+et les equations (1) du ξ ἴ). prendi-ont la forme suivante
+
+(ἒξ = - 211 ε, - Ρϋῆ- - (142)
+
+¹) Bull. lnt. de l'Aead. d. Se. de Craoovie pour 1901, p. 104.
+annuum 111. 2
+

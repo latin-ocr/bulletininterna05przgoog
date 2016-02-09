@@ -1,0 +1,47 @@
+68
+
+verifie la congruenee relative au mudule p = 2 m -Ι- 1 ·-- 4 k -1- 3:
+(218) fs..) (ο) - (- 1)ss ( Ξ) ιι .
+
+Observons que notre fonction f (x) peut se mettre sous une forme
+plus simple, 8 savoir
+
+<21¹2 f<oe>=g<—1>÷⁴²⁶<2-15-‚352-322ss3332'ffl·
+
+Toute transformation ou reduction suivant le module p de cette ’
+fonetibn donne une fot-mule concernant le nombre 11. “
+
+Une autre representation algebrique de 18 fonction Q(oe) resulto
+de 18 congruenee
+
+(22) Q (x) 2r3⁷fflxv (mod. p),
+
+si l’on observe que le second membre resulte en faisant z=0 dans
+18 derivee d’ordre m de la fonction de z
+
+p—1
+
+Σπν ew: Ι--ἱθμς
+vno 1 ,ιε’
+611 d'autres termes,
+mx) 1 Dr„ 113 221²· (mod. ρ).
+
+Cela etant, on 8 pour 2 suffisamment petit, le developpement
+
+-1—333—8·=ao†a,2†a‚z⁸-}-a‚z⁴—†—...,
+
+οἱι les a„ sont des fonctions entieres de 18 quantit& lgoe’ diviseos
+par 1—:153 les eoeffieients de 18 fonction entiere (1- x) a„ 116 peuvent
+oontenir 16 faeteur p en denominateur que si ν {1³3 il s’ensuit que
+
+les coeffieients du developpement
+
+ef* - 1
+
+{Li}
+seront divisibles par p·tant 'qu'il s'agit des termes en z, 2²‚...z⁹‘¹‚
+et cela subsiste meme lorsqu'on choisit pour a· une valeur ration-
+
+nelle ou algebrique. telle que 1 -x reste premier avec p. On aura
+alors
+

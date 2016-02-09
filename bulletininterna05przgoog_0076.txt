@@ -1,0 +1,55 @@
+ΜΑΥ 12 1904
+
+BULLETIN INTERNATIONAL
+DE L’ACADEMOE DES SCOENCES DE CRACOVOE.
+
+-cuxssss Dsss SCIENCES MATHEMATlQUEs ΕΤ NATURELLES.
+
+Fevrier 1904.
+
+ 
+
+ΝΟ 2.
+Somtlflairedt 8j EUM. LERCH. Sur quelques applicatione d’un theol-eme arithme-
+tque e aco ι.
+
+9. Μ. Κ. KOSTANECKL- Etuds eytologiquo de la parthdnogsnese artifieiello
+des oeufs ds Maetra sous l’influenee de KCl.
+
+10. Μ. F. TONDERA. Sur la structure interient-e des sarmenta de Vigne.
+11. M. S. ZAREMBA. Reponse aux remarques de M. Natanson sur la theuris
+de la relaxation.
+
+‘ 12. M. LADlSLAS NATANsON. Reman-ques sur les ’travaux de M. Zaremba
+relatifs ἐι la theorie de la double r6fraction accidentoue dans les liquidos.
+
+Seance du luridi 1 Fevrier 1904.
+
+Pus-sintne: nr. M. E. GODLEWSKI.
+
+8. Μ. Μ. LERCH. Sur quelques applicationis d’un them-eme arithmetique
+de Jacobi. Memoire presente par M. S. Zaremba m. e.
+
+Soit p un nombre premier impnir, 9 une des raeines primitives
+correspondantes, puis n un entier positis plus petit que p—I, et
+designons par α un entier positis ou negatis qui satisfuit ὴ la eon-
+
+gruenee
+a -- yffi· (mod-10),
+
+qu'on peut mettre sous la forme fractionuaire plus simple
+
+a {a (mod. p). (1)
+
+En indiquant suivant l'usage par ind ν l’entier μ qui satisfait ὲ la
+congruenee
+
+ρμῖν (mod. p), (0<ν<])),
+
+avec la condition aceessoire 0 ξ μ < Ρ-Ι, considemus la fonction
+entiere de l'indeterminee :c
+
+ιη, (x) ΞΣ ‹22112d ν ων.. (2)
+
+nnn-»tin 111. 1
+

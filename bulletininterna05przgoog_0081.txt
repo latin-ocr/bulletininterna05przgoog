@@ -1,0 +1,48 @@
+62
+
+Gela etant, soit p>3 et dela forme 4 leq-3, et desig-nous suivant
+l’habitude par h 16 nombre des classes de formes quadratiques,
+positives et proprement primitives‚ du determinant —p, c’est-a-dire
+des formes (a, 2b, c) = αφ’ -Ι- 2bxy 4— cy', telles qne b² — ac = —p.
+Si l’on considere les formes telles que
+
+· αφ’-1- basy —{- (ἃρμ’,
+
+l’expression bf —- 4a201 est dite 16 discriminant, et celui-ci etant
+pose egal a -ρ, 16 nombre des aienses correspondentes sera (16-
+signe par Ol (-—p). Les deux nombres h et ΟΖ (—p) sont en relation
+
+suivante
+12=<2- e» cm»
+qui results (16 la circonstance evidente que
+Iz = Gt (-— 410).
+
+Oes remarques faites, on doit a Dirichlet ce resultat classique et
+
+bien connu .-
+ἰτ-ἑ (g),
+p—1
+
+le nombre premier p ayant la forme 4k «1- 3: et m = —2——‚ et cette
+
+formule permet d'evaluer la quantite P, (l) suivant le module p.
+On a en effet, d’apres (12),
+
+,ᾗῑιΡ’(1)Ξ-Σ(ἷ“)ν
+
+van-41
+et si l'on y fait νε ῃ-μ, en observant que pour les modules de
+
+la forme (ειμι-3
+(effi-(3),
+
+Συ
+
+Ρ, (1) = m! h.
+
+On aura donc une expression du nombre h, si l'on fait a: = 1
+
+il vient ’
+
+ou bien
+

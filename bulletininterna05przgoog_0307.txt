@@ -1,0 +1,51 @@
+470
+
+bedentet3 diese Gleichung besagt. der Massenpunkt sei gezwungen.
+sich auf einer Kugelfliiohe vom Radius l unter dem Einfluss der
+Erdbesohleunigung zu bewegen.
+
+ξ 2÷*. Indem wir das Transformationsschema (3³) mit (1) zu-
+sammenstellen‚ finden wir unter Benutzung von (ὃ) fur die Kom-
+ponenten der Winkelgesohwindigkeit des bewegliohen thsensystems
+um die instantane Achse:
+
+(ἵν’) p=cocoscp² 9:12, r=—-oesin‹p.
+
+W ir seben, dass die durch Ο gehende instantane thse, deren
+Richtungsoosinusse
+(6³⁵) ἕεσοθφ, 520, ἑτ--εἱηφ
+sind, stets parallel der Erdaohse ist (also eine Gerade‚ die vom
+Koordinatenanfang Ο nach dem Polarst-ern geriehtet ist).
+
+ξ 34. Fur die Drehungsgesohwindigkeiten (25) des mit dem
+bewegliehen Achsensystem zur Zeit t fest verbunden gedachten
+
+Massenpunktes x, y, z um die instantane thse folgt:
+
+u=wsinqmy
+(7³⁸⁵) vz—wssinq).x—-wcos<p.z
+w=oecostp.y.
+
+Diese Ausdrueke, mit dt multipliziert‚ ergeben die in der unend-
+lioh kleinen Zeit dt erfolgten Versohiebungen langs der Koordinaten-
+aohsen, und hierdurch (vgl. ξ 5) ist der Drehungssinn des bevereg-
+lichen Koordinatensystems um die instant-ane Asshse, namlioh von
+Westen uber Sfiden nach Osten‚ festgestellt.
+
+Diesem Sinne entgegengesetztg also im Sinne Nord fiber Ost‚ dreht
+nich um die instantane thse die Masse des Korpers3 wobei die Ener-
+
+gie 6ἷΙω2 erzeugt wird.
+
+Η
+
+ἓ 4. Die auf den Massenpunkt wirkenden ausseren Krafte
+X, Y, Z setzen sich aus folgenden Krfiften zusammen 1):
+
+1) Der Erdattraktion‚ die gesetzt werde gleich der Resultieren—
+den aus der in Richtung der Vertikalen angenommenen Erdsohwere.
+deren Komponenten nach den bewegliohen thsen ο, ο, my sind,
+
+¹) vgl. z. B. J alliun, Problbmos de meeanique rationnelle‚ tomo second,
+p. 2293 Paris 1855.
+

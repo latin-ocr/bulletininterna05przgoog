@@ -1,0 +1,40 @@
+13
+
+Portons encore une fois notre attention sur l’element du liquide
+qui, a l'epoque t, oeeupe la region infiniment petite· Ω auteur du
+point A. Rapportons aux axes Ajk la deformation que eet 61661661
+eprouve pendant l’intervalle de temps de t a t.-}-dt. Si la rotation
+de l'element est inelue (1666 66116 (161611661166, nous prendrons pour
+point (16 depart les equations (12) du ξ 1; nous nous adressemm,
+au contraire, aux equations (14) du meme paragrapho (1666 16 666
+611 16 rotation a ete explicitement exelue du 661661 (16 16 deforma-
+tion. Dans l'un 666 66161116 (1666 l'autre‚ nous trouverons
+
+ej = ε, 6662 β -1- ε, 6162 β -1- ex„ sin β 666 β (96)
+ek = e, sin² β —l— 6, 6662 β - 6,, 616 β 666 β (91)).
+cst = — (e, — 6,) 616 2β -1- 6,, 666 2β. (96)
+Ces equationa deviennent, en vertu des equations (3) et (6),
+⁶1²4-ss (ΞΞ--Ξὴ 616 2α (108)
+e„ = - ὲ (Ξὲ - ἐξ) sin 2a (lob)
+est = (ἐξ - ἕ ) 666 ἓας (100)
+
+il est (1666 6166 (16 verifier que l'on a
+ej eos² a -1- 6, 6162 α —— e„ sin a 666 α = Ο. (11)
+
+§ 5. Eorivons 166 equations exprimant 16 161 (16 16 relaxa-
+tion a laquelle, suivant 666 hypotheses fondamentaleS, la (16161-1
+6161166 veritable d’un fluide est 6666161616661 66616166. A l’effet
+d’eviter 16616 difficulte‚ rapportons cette deformation aux axes Asta*
+qui participent a la rotation instantanee de l'element entourant le-
+point considere A. Nous aurons
+
+ 
+
+ 
+
+ὥῖῑΐ ² θ’ “““ ’Τ ““ (¹²²)
+³13} ΞΒ» -· ⁸³ 3⁴³9} (lb)
+dyst* Y} ἃ
+
+“dt- :⁶5 - -ἇῖ · (16),
+

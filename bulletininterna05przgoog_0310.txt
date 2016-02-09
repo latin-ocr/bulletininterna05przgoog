@@ -1,0 +1,43 @@
+²173
+
+tiberein, wenn noch in diesen Gleiehungen der Luftwiderstand fort-
+gelassen wird.
+
+ξ 9¹³. Im folgenden betraohten wir statt eines Massenpunkts
+einen starren Korper‚ fur dassen einzelne Massenpunkte die vorhin
+entwiekelten Beziehungen gelten.
+
+Zunaehst erhalten wir fur das Prinzip der lebendigen Krafte
+nach Gleichung (46), indem wir die Ausdrssoke (8*) und (11¹³) sowie
+die Bedingungsgleichungen (4³⁵) benutzen:
+
+d(2'}mc²- {1m2)=a[9dz. (15⁴⁶)
+
+Diese Beziehung gilt sowohl fur das Problem ‘der Bewegung
+eines Korpers an der Oberflache der rotierenden Erde als auch fur
+den Fouoaultsohen Pendelversuoh. Fur diese Probleme haben
+wir demnach:
+
+Die Abnahme der gesamten lebendigen Kraft‚ die sich aus
+der relativen lebendigen Kraft und der entgegengesetzten instan-
+tanen Rotatidnsenergie zusammensetzt, ist gleioh der vom Massen-
+punkt unter dem Einfluss der Erdsohwere geleisteten Arbeit.
+
+ξ 10⁴¹. Werden die Ausdruoke (6³⁵) in (34) eingesetzt, so erg-ibt
+sich fur das instantalne Trngheitsmoment:
+
+I=cos²(p‚Zm(y²†²⁸)†·⁸in²‘P-Zmsy²†³²²)†
+†2sin‹pcos φΣηιωε. (15³)
+
+Wird auf der instantanen Achse die Strecke OI=NII abge-
+trag-en, so sind die Projektionen dieser Streeke auf Ox, Oy, 02:
+VJ} ωεφτ-ξ, ο, V} εἰηφε-ζ, (17³)
+
+Werden diese Ausdrfleke sowie die Abkurzungen:
+
+2 ‘'-
+Σ matz = Ε (18*)
+
+in (16⁸⁸) eingefuhrt, so folgt- fur das instantane Tragheitsellipsoid
+die Gleiehung:
+

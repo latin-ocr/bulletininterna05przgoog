@@ -1,0 +1,37 @@
+64
+
+La quantit& Q (—1) dans le eas de p=4k÷3 s’exprime aussi
+au moyen du nombre h, ear elle est
+
+Σ(-1)”(-Ξ)Ξ-2’(-Ξ)-1-ἑ’(ῗ), (2=1‚3,5‚...p--2)
+
+et si l'on observe que 2:12—-221, il vient
+
+Q(--1)=221' (31⁰3)=2(})h.
+
+La congruenee (5) donne ensuite pour x=—— 1
+— m! Q(—- 1) -r Y„(—-2) (mod. p);
+
+le premier membre etant congru aveo le nombre
+
+(-1>²¹'''2h‚
+on aura en substituant y=—2 dans l'expression de Y„ 16 formule
+suivante
+(15) 2'(-2)v «κῆν- ‹·-1)ss({)212 (mod. ρ),
+νεα
+οὺ l’on 6 fait usage de la congruenee
+<-2>· - (Ξ)-
+
+L'exemple precedent donne comme valeur du premier membre
+1-{—}.2-}-}4 —}- 1382-52-2 (mod. 7).
+
+Eniin je pose x=i dans 16 fonction Q (x), et j'observe qu’en
+
+posunt ε = (—1)³÷, on 6
+
+(ἕ);(ἰῗ);
+
+pour ν impair on 6 ensuite
+
+iv —-(?;}42)2·,
+

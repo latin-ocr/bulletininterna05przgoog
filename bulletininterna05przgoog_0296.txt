@@ -1,0 +1,43 @@
+459
+
+die vorigen Gleiehungen gehen dann uber in:
+Σ’Χ’Σ“Ρ ’Μ (gdq Cd't* ““ '⁷ ΞΣ )
+213: M(5{t — ζάξ) (29η)
+
+ΣΖτ-ΜΜΡ-εᾱῦ
+
+Diese Ausdrueke reprasentieren die Andemng der Bewegungs—
+griisse des Massenmittelpunkte8‚ wenn dieser zur Zeit t fest mit
+einem bewegliehen Koordinatensystem, dessen Anfangspunkt jedoch
+in Ruhe bliebe, verbunden sein wurde. Die negativ genommenen
+Ausdrueke (29) sz. (29 a) bezeichnen wir kurz als die instan-
+tane Tagentialkraft des Massenpunktes bzw. Maseenmittel-
+pnnkteS.
+
+ξ 6. Die in der letzten Klammer auf der rechten Seite in (22)
+stehenden Ausdrueke:
+
+-2m(⁹{5- 555)
+*most dt 2*Ρὲἶῇ (3¹)
+-2m(10{? - ΕἰΞῖ)
+
+sind die Komponenten der zusammengesetzten Zentrifugalkraft von
+Coriolis. Nach ξ 5 sind p, q, r die Streekenkoordinaten der die
+instantane Rotation reprasentierenden Aehse 0K= ω, und denkt
+
+man sieh noch die relativen Gesehwindigkeiten Ξῖ, ἕξ ‚ ἑῇ durch
+Streeken dargestellt, so sind die Ausdrueke (31), vom Faktor m
+abgeeehen‚ die Projektionen des doppelten Flaeheninhalts des von ω
+und der relativen Geschwindigkeit c gebildeten Parallelogrammsz
+
+die hier austretende Kraft ist demnaeh gleieh
+—— 2m ωο sin θ, (32)
+
+wo θ der Winkel zwisehen c und der instantanen Rotationsaehe ist.
+dx dy dz
+
+dt dt dt’
+seits mit p, q, r multipliziert, so sind die betreffenden Summen gleieh
+
+Werden die Ausdrfleke (31) einerseits mit anderer-
+

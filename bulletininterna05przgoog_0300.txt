@@ -1,0 +1,52 @@
+463
+
+instantane Zentrifugalkraft des Massenmittelpunkts senkreeht auf
+der instantanen Aehse steht.
+
+Ausserdem setzen wir:
+
+dl ΞΣΞ ἐ dx ÷2⁷}; dy -4-2' {Z αις (37)
+
+dieser Ausdruek stellt die Anderung des instantanen Tragheitsmo-
+ments dar, (wahrend welcher die Richtung der instantanen Aehse
+
+konstant bleibt). Multiplizieren wir alle Glieder dieser Gleiehung mit
+
+Ξ ω’, so folgt‚ da Ξ ωἳέέεν.. die Komponenten der Zentrifugalkraft
+
+des Massenpunkts x, y. z sind, fur ein System von Massenpunkten:
+Die Abnahme der instantanen Rotationsenergie (bei konstanter
+
+W'inkelgesehwindigkeit) ist gleieh der Arbeit der Zentrifugalkrafte
+der einzelnen Massenpunkte.
+
+ἓ 9. Werden die Ausdrueke:
+
+13:25 Zle2—ff-z2)=A
+ω Vl Em(x2-†-z2)=13
+q=3v (333 Em(ae²†y²)==C (39)
+ω Vl ’ ZmyzzD
+· ζ mez-——E
+ωΣχ.[ ΣηιωμΣΡ
+
+in (33) gesetzt‚ so lautet die Gleiehung des der Zeit t entspreehen-
+den Tragheitsellipsoids (mit dem Mittelpunkt in Ο), dae wir das
+i nstantane Tragheitsellipsoid bezeichnen wollen:
+
+215² -Ι- 3⁷1² -i- ΟΨ - 2Βηζ - 2Εξζ- 2Ρξη = 1· (40)
+
+Die Koeffizienten A, B, C, . . . sind keine Konstanten, da die Lage
+der Massenpunkte x, y, z mit der Zeit veranderlieh ist. Jedem Zeit-
+punkt entsprieht ein anderes Tragheitsellipsoid. Man kann sich nun
+in jedem Zeitpunkt eine dem veranderliohen Ellipsoid entspreehende
+veranderliohe Form der Masse zugeordnet denken, durch deren
+
+Drehung im positiven Sinhe um die instantane Aehse die Euergie
+
+1
+
+ΞΙω2 erzeugt wird.
+
+Fur C=o‚ Dzo und E=o z. B. gibt Gleiehung (40) eine
+Ellipse3 dieser ordnen wir eine ebene, um die instantane Aehse
+
