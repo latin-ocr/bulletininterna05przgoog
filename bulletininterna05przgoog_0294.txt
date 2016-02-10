@@ -1,0 +1,44 @@
+457
+
+gen (ὃ) und (6) fur die Projektionen der Geschwindigkeiten (24)
+auf die bewegliehen thsen:
+
+ΝΞ qz —- ry
+v=r.t--pz (25)
+wzpy — ρας.
+
+Diese Ausdrueke sind, wie bekannt, die Kornponenten der Dreb-
+ungsgeschwindigkeit des zur Zeit t mit dem beweglichen Koordi-
+natensystem, dessen Anfangspunkt in Ruhe ist, fest verbunden ge-
+dachten Punktes x, y, z um die instantane. durch den Koordi-
+natenanfang 0 gehende thse. deren Gleichung:
+
+xl Ξ yI :31 (26)
+1² ‘1 ”
+ist, fur deren Punkte xl ‚ yl , z, die Geschwindigkeiten (25) ver-
+sehwinden. Die Grbssen p, q, ι· sind die Komponenten der Winkel-
+gesohwindigkeit, mit der sich das bewegliohe Koordinatensystem
+zur Zeitt um die instantane Achse droht: dio Winkelgeschwin-
+digkeit selbst ist
+
+w=Vp²†9²÷r²‚ (27)
+wobei die Quadratwurzel positiv zu nahmen ist, wenn der Rich-
+tungssinn der Drehung positiv ist, den wir in folgender bekann-
+ten Weise fixieren: Wird auf der instantanen Aehse eine Streoke
+ΘΚ = ω abgetragen, und sind deren Projektionen auf Ox, Oy, Oz
+bzw. gleich p, q, r, so wird dupoh die Strecke 01< die Ache der
+augenblickliohen Rotation des beweglichen Koordinatensystems re-
+prflsentiert. Fallt zu irgend einer Zeit OK mit Oz zusammen, so
+ist p=0, q=o‚ r: ω und die Gleiohungen (25) gehen uber in:
+
+u Ξ - wy
+v= (osc (28)
+w: 0 .
+
+Da die Ausdruoke (25), mit der Zeit dt multipliziert‚ die 111
+dieser unendlioh kleinen Zeit. erfolgten unendlioh kleinen Versehie-
+bungen in den Richtungen der drei Aehsen x, y, z darstellem so droht
+sich der mit dem beweglichen Achsensystem fest verbundene Punkt
+um die instantane thse -- wie es dann aus (28) folgt — von der⁴
+positiven εε- nach der positiven y-Achse. und dieses ist also
+

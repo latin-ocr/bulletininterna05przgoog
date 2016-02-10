@@ -1,0 +1,44 @@
+52
+
+rons 16 point Μ entre les deux cylindres et fixons (16 quelque ma-
+111616 (1116 66 6011 166 directions MP, M Q formant un angle de 450
+avec le rayon r. D'apres la 11160116 precedente, les axes optiques
+du liquide M P‘, Μ Q' doivent 6116 6111166 comme l'indique 16 figure,
+si 16 66113 (16 16 rotation du cylindre interieur est contraire 6 661111
+dans lequel tournent les aiguilles d'une montre.
+
+’ Νο116 amenagions l’experience de maniere qu'il ffit possible de
+tourner les deux nicols 6101666 61110111 d'un axe 1116116 1161 16 6611116
+’(111 champ de vision. Au commencement de l'experience‚ lorsque 16
+liquide 661 encore en repos‚ nous plac-ons les sections principales
+des nicols parallelement aux directions M P, ΜΩ. Le champ de
+vision5 noir au commencement‚ s'eclaircit par suite de la rotation
+du liquide. En tournant les nicols, dans· le sens contraire 6 661111
+(111 mouvement, d’un angle plus petit que 45⁰, on peut retablir l'obs-
+6111116 (111 61161111) (16 vision. Soit α 661 611816 PMP‘. L'angle α
+mesure la deviation des axes optiques de la position M P, Μ Qe
+c'est-a-dire (16 16 position qui fait un angle (16 45⁰ avec le rayon r
+La connaissance de l'angle α suffit pour calculer l'angle χ (16116
+1’6(111611011 3). Dans? la methode (16 Kundt le point M est un ma-
+ximum d'obscurite lorsque les sections des nicols immobiles sont
+11616116166 aux directions M P‘, Μ Q'. Nous avons donc:
+
+(4) cotg2xz—t92a
+
+On peut rendre cette methode plus sensible par l'interposition entre
+les deux 1116016 (1’11116 161116 (16 quartz double (de Bra vai s) solidaire
+avec les nicols et formant avec leurs sections principales u‘n angle
+de 45⁰. La lame execute evidemment les memes rotations que les
+nicols. Dans 16 position dans laquelle les sections principales des
+nicols sont paralleles aux axes optiques du liquide, la couleur (16
+16 161116 661 uniforme. Dans chaque position differente, elle presente
+deux teintes differentes Lorsqu’on opere avec la 1111111616 blanche
+61 1016(1116 16 11(1111(16 631 incolore, la teinte (16 passage (16 16 161116
+661 violette. On peut alors determiner la position des axes optiques
+(111 liquide avec une exactitude d'un (16816 environ. Dans 16 666
+(166 11(1111(163 colores, l’exactitude n'est pas aussi grande D’ailleurs
+l'introduction de la lame ne modifie nullement la signification de
+l'angle α.
+
+L'appareil que nous avons construit pour faire ces observatione
+

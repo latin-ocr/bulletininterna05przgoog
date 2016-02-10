@@ -1,0 +1,47 @@
+460
+
+null; daher ist die Richtung der zusammengesetzten Zentrifugal-
+kraft senkreeht zur Winkelgeschwindigkeit und zur relativen Ge·
+schwindigkeit‚ entgegengesetzt der Richtung‚ in welcher die Rota-
+tion das bewegliche Koordinatonsystem mjt sich nimmt. Indem wir
+dasselbe Koordinatensystem wie in ξ 5 withlen, erhalten wir die
+folgende (auch nach (31) fur Ρ-το, qr---o⁷ r==w und ς’ 5 sich
+ergebende) Regel:
+
+Denkt man sich einen Beobaohter senkrecht zu der aus c und
+ω sowie deren Riohtungen gebildeten Dreieoksflnche mit den Fuss-
+spitzen im Schnittpunkt (w, εἰ stehend und mit dem Gesicht. nach
+dem Winkel (ω c') gewendet‚ so ist zur Linken ω und zur Rechten
+e zu denkm, und die Coriolissehe Kraft wirkt in der Richtung
+von den Fussspitzen nach dem Kopf des BeobaehterS.
+
+Fur ein aus diskreten Massenpunkten bestehendes Systaem
+golten gleichfalls die Ausdrsseke (31), wenn unter x, y3 z die Ko-
+ordinaten des Massenmittelpunktes und unter m die gesamte Masso
+des Systems verstanden wird. sodass in diesem Faue die Aus-
+druoke (31) die Komponenten der zusammengesetzten Zen-
+trifugalkraft des Massenmittolpunktes bedenten.
+
+ξ 7. W as nun die in der zweiten Klammer stehenden Ausdrfleke
+in (22) anlangt‚ so werden wir ihre Bedeutung erkennen‚ wenn
+wir den Ausdruek fur das Tragheitsmoment der betraehteten Massa
+in bezug auf die instant-ane Ache (26) auffltellen.
+
+Da
+
+P fl Γ
+w’co’m
+
+die Richtungsoosinusse der in stantanen Aah ee zur Zeit t beztiglich
+der beweglichen Aehsen sind, so ist das in s t a n t a n e T ragh eite-
+m 0 m e n t der Masse bekanntlieh gegeben durch:
+
+(33) 1=(0²3>²2⁷mfy2÷222÷(g-)²2'm<x2÷22>÷
+÷(g)²2'm(y²÷ae2) -- 2 g meyz-
+
+*20²3 22321122-25332'2’22&
+
+und die instantane Rotationsenergie der Masse ist
+
+ 
+

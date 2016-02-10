@@ -1,0 +1,44 @@
+11
+
+De Ιίι on deduit
+(εξ - εἶ) eos 2 θ -1- ym* sin 2 θ = a* —· eq* (78)
+(82⁴4 — ⁸⁸³) sin 2 θ - yn* eos 2 θ -- —- yn& Α (7b)
+
+si, dans l’equation (ὃ), on porte ees valeurs du numerateur et du
+denominamur du second membre, on retombe immediatement sur
+le resultat qui a ete etabli au 'paragraphe precedent par une voie
+plus directe.
+
+ξ 4. conservom aux lettres q et θ la signification que nous
+leurs avons attribuee et designons par u et υ les composantes, pa*
+ralleles aux axes Ox et Oy, de la vitesse q. Nous aui-ons
+
+u: —qsinO (la)-
+v = -1- q cos 63 (lb)
+ees equations sel-ont vraies dans les deux eas oppones qui penvent
+
+se presenter. Soit F nne fonction queleonque des variables r, θ’,
+on s’assure sans peine que l'on a
+
+ἐξ -= eos θ ἐξ — si—nfo ἐξ (28)
+ff=sin0 QE÷00⁸0ffls
+&y ἓν r 36 ⁰ oeb)
+
+ 
+
+Jointes aux equations (1), les equations (2) permettent de ealenler
+les componentes (rapportees aux axes des x et des y) de la vivesse
+apparente de deformation. Elles ont les valeurs suivantes:
+
+32={{=—3({?3—3)sin26 , (3ᾒ)ἶ
+e„={{:-†-1}({{——} 811126 ·. (313)⁴
+⁶“={'†gg=(⁴}}†“g)⁰⁰⁸2o3 ’ (33)¹
+
+ees valeur8‚ rappelons-le‚ ont ete obtenues en supposant que la
+vitesse d'une particule du liquide ne depende que de sa distance.
+ὲ, l'axe de rotation.
+
+Prenons dans le liquide un point qneleonque A ‘de coordon-
+nees x, y et imaginons une region infiniment petite de liquide Ω
+entonrant ee point. soit M un second point appartenant ἐι la meme'
+

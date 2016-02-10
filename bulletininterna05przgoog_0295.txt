@@ -1,0 +1,43 @@
+458
+
+der positive Drehungssinn. Wird der Betraehtung ein Koordinaten-
+system zu grunde gelegt‚ bei dem die -l—x-Aehse nach vorn,
+die †y-Aehse nach reehts und die —{-z- Aehse nach oben
+geht, so wird einem Beobachter‚ der sich in de'r z· Aehse mit
+den Fussspitzen im Koordinatenanfang und dem Gesicht nach vorn
+befindet, der positive Drehungssinn von reehts nach links erscheinen.
+
+Die Glieder
+XI Ξ m ( a dq dr)
+
+‘dt—yzit
+129) 13: m (xg't’ -κ 2 gf)
+mag-033>
+
+in den Gleiehungen (22) reprasentieren die Ruderung der Bewe-
+gungsgrffissQ welche der Massenpunkt. ας, y, z bei der Rotation um
+die instantane Aehse zur Zeit t erlitte‚ wenn er fest mit einem be-
+weglichen Koordinatensystem3 dessen Anfangspunkt jedoch in abso-
+luter Ruhe bliebe, verbunden sein wardo. In den Bewegungsglei-
+chungen ist die entgegengesetzte Anderung dieser Bewegungsgrosse
+anzubringen.
+
+Indem wir diese Betraehtung auf ein System von Massenpunkten
+ausdehnen‚ erhalten wir, da die Winkelbesehleunigung zu einer und
+derselben Zeit fiir alle mit dem bewegliehen Achsensystem fest
+verbundenen Punkte dieselbe ist:
+
+2'x1=ss{22222—352my
+2'12-——352'm—3252m2
+222 ε’ 2²²2 Συψ - 332⁷
+
+Werden mit ξ, η, ζ die Koordinaten des Massenmittelpunktes der
+gesamten Masse M zur Zeit t bezeichnet, so ist bekanntlieh:
+
+w— 5*
+
+ς- Δ πω)
+
+(30) Mn: 27 my
+HC: v »τε
+

@@ -1,0 +1,46 @@
+42
+
+ἴ). M. l. MOSCICKL Radania nad wytrzymalosciq dyelektrykdw. (Studien
+{wer dle Duovlu»ruclasfestiulcklt dee· Dielelctrica). (Etudes sur la νέ-
+ξίθίαησε des didlectriques). Mdmoire presdntd par M. A Witkowski m- t. .
+
+Durch meine Arbeiten uber die Konstruktion techniseher Hoch-
+spannungskondensatoren veranlasst‚ habe ioh eine grosse Reihe
+von Versuohen ausgefilhrt, durch welche ich mich tiberzengt habe,
+dass die Dielektriea eine viel grssissere Spannung in der Mitte der
+belegten F lachen anshalten als am Rande. So hielt eine Glasrfihre von
+0³5 mm Dioke in der Mitte bis 40.000 Volt aus, wahrend sie am
+Raude sehon bei 8000 Volt durehgeschlagen wurde.
+
+Ich stellte deun genaue Untersuohungen daruber an. in welcher
+Weise der Durohbruoh am Raude des Belages oderim Innern von
+belegten F lachen bei verschiedenen Dielektrieis und bei verschie-
+denen Dieken desselben von der angewandten Spannung abhangt
+und woduroh sich der Zusammenhang der beiden verschiodenen
+Arten der Beanspruchung erklaren lasst.
+
+Der naohstehende‚ experimentelle Teil der Arbeit ist gemeinsam
+mit Herrn Konrad Kasprowioz ausgefuhrt worden.
+
+Erstens wurden Versuohe angestellt· zur Bestimmung der Dur-
+bruehsspanung am Raude. Als Dielektrica wurden 3 Sorten Glas
+(gewsshnliches Alkaliglas, alkalifreies Glas v. Schott Sc Genossen
+in Jena 47 7¹¹¹ u. Borsilikat = Thermometerglas von derselben Firma
+Nr. 59⁰¹) und Ebonit angewendet. alle in Form von Rfihron. wel-
+che nach Bi3ttgers Methode von aussen versilbert‚ von innen mit
+Quecksilber gefullt waren. Die Versuche wurden in der Weise
+ausgefuhrt‚ dass die Spannung im Stromk1·eise langsam und kon-
+tinuierlieh durch einen elektrolytischen Widerstand variiert wurde.
+Der Stromkreis war immet· nur solange gesohlossen‚ bis die Span-
+nung abgelesen νεῖαι-ἀεῖ, dann wurde er unterbrochen‚ die Spannung
+erhoht, der Stromkreis gesehlossen, die Spannung abgelesen u. s, w„
+bis der Durehbruch stattfand. Die Rsshren waren wahl-end der Ver-
+suohe in Isolationsffl getauoht.
+
+Es wurden von der 1. Glassorte. R6hren von 02 mm bis 27 mm
+Wandstarke untersucht‚ wobei die Durehschlagsspannung von 6400
+Volt. auf 27·150 stieg. Bei der 52. Glassorte entspraohen den Grenz-
+wandstarken von 02 mm und 1224 mm Spannungen von &950 bis
+18.750 Volt. Bei der 3. Glassorte waren die untersuchten Rbhren
+von 0·19 mm bis 132 mm diek‚ die Spannungen stiegen von 7540
+

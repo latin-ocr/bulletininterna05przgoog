@@ -1,0 +1,47 @@
+482
+
+Fur .15=0 erhalt man die bekannte Beziehung‚ wenn die Erd-
+rotation nieht berueksiehtigt wird, und da fur die sudliehe Ab-
+weichung x ein negativer Wert zu setzen ist, so tritt infulge der
+sudliehen (aber nieht der (istliehen) Abweiohung eine Verlangerung
+der Fallzeit ein. Selbstverstandlioh wird ausserdem die Fallzeit
+durch andere Krafte (z. B. Luftwiderstand)‚ die in dem Integral
+(47) in ΣΧ. ΣΥ, ΣΖ ausser der Erdsehwere euthalten sein ki’mnen,
+auch verendert. Auf diesen Umstand mag auch die von Reieh
+gesundene gressere Fallzeit t=6,0 see· zuruekgefuhrt werden,
+wahrend t, fur ,τεο nach (23⁴⁵) bereohnet, sich zu 5‚7 see. ergibt.
+
+ξ 17*. Es megen nunmehr noch einige andere Beispiele erwahnt
+werden, bei denen neben der Coriolisschen Kraft das Fo u ea ult-
+sohe Phanomen‚ allerdings mehr theoretiseh, in Frage kommt3 der
+Benbaehter befinde sich dabei auf der nbrdlichen Hemisphare.
+
+1. Ein senkreeht naeh oben geworfener Kbrper erfahrt (infolge
+der Coriolis seben Kraft)‚ wie bekannt, eine Abweiohung nach
+Westen. Naeh dem hier Dargelegten findet wegen des Foueault-
+seben Phanomens gleichzeitig eine Abweiehung· nach Norden statt.
+
+2. Bei einem Wurf in beliebiger Richtung erfolgt durch die
+Kraft von Coriolis eine Abweiohung des geworfenen Kssrpers
+stets nach der rechten Seite des WVerfenden3 zu dieser Abweichung
+tritt noch die durch das Foueaultsche Phanomen bedingte, ganz
+unmerkliehe Abweiehung hinzu. Ausserdem muss naturlieh als aus-
+sere Kraft noch der Widerstand der Luft eingefuhrt werden, so dass
+die gesamte Abweiehung von diesem Faktor sehr abhangig istm.
+
+3. Man2) hat versucht, den Seitendruek der Eisenbahn-
+zu ge auf die Ssshienen einer geradlinigen Bahn durch das F ou-
+oaultsche Phanomen zu deuten. Hierbei kommt dieses praktisch
+garnieht in Frage. Sind namlieh E, H die horizontalen Komponen-
+ten des SohienenwiderstandeS, so bereehnet sich dieser nach den
+Gleichungen (12) fur eine mit konstanter Gesohwindigkeit c fahrende
+
+Ezmffsingp.ae —22noesinq2.Z-{
+(26³⁹) dx
+H=mm²y -{-—2mmsin‹p.d÷t .
+
+¹) Wegen Literaturangabe vgl. auch: Enzyklopadie der mathematischen Wie-
+
+senschaften‚ 4, C. Cranz, flaminem, Leipzig· 1903.
+²) Vgl. H. C. E. Martae, Astronomische Geographie, S. 2003 Leipzig· 1888.
+

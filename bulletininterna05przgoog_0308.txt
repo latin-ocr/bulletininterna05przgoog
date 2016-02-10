@@ -1,0 +1,44 @@
+471
+
+und der entgegengesetzten, aus der Rotation der Erde entsprin-
+genden Zentrifugalkraft‚ deren Komponenten
+
+mm‘hsinq), ο, moe²hcoscp
+
+sind.
+
+Beide erwahnten Krafte konnen fur Punkte‚ die in der Nahe
+des ortes P hegen, als konstant betraehtet werden, obwohl sie sich
+in Wirkliehkeit. bei einem sich bewegenden Korper von Punkt zu
+Punkt andern.
+
+2) Im Falle des Foueaultsehen Pendels haben wir noeh als
+{iussere Kraft die Tension R des Fadens anzusehen‚ an 'dem der
+Massenpunkt befestigt ist (oder den ausseren Widerstand der Kugel-
+fliiehe auf der sich der M'assenpunkt bewegt). Die Komponenten
+dieser Kraft sind: —R⁵{, —B3{‚ —R²l.
+
+Wir haben demnaeh beim Foueaultschen Pendelversueh:
+
+X: mw²hsin‹p—R²l⁷
+Ο Y= -Βζ (8³⁶)
+
+szq—l—mw2hcosoe—Rzl,
+
+worin fur das Problem der Bewegung eines freien Punktes an der
+Erdoberflaohe R=0 zu setzen ist.
+ξ 5²³⁶. Der Koordinatenanfang Ο hat die Koordinaten:
+
+ae0=hcoswt‚ y0=hsinoet‚ 20:1⁶3 (9¹⁸¹)
+daher
+{¹}'=—hwsinmt‚ ίἒμίἐήωοοθωι (ΞΟ-ο
+und
+(5Ξο = — Ιιω2 cos ωε, ῗῖζ) = — hw² sin cot, (ἔξ = 0. (10*)
+
+Demnaeh erhalten wir nach (23) fur die entgegengesetzte, auf den
+Koordinatenanfang Ο wirkende Kraft:
+
+X0 = must h sin φ
+Y⁰ = ο (11³)
+Zo =mw²hcos‹p.
+

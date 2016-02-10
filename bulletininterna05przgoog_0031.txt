@@ -1,0 +1,51 @@
+16
+
+par consequent
+
+(3) q=,A-†.B,. , d2„2„=--?}
+r ‘ dr r²’
+
+r
+
+οὺ l'on designe par A et B deux constantes arbitraires. Designons
+par o„ et σὺ les vitesses angulaircs de 13 parci interienre (νεα)
+et de la parci exterieure (φ’-εὐ). Nous poserons
+
+(4) 9(‹1)=‹1003 q(l›)=bo„;
+
+ces equations permettcnt de determinet· A et B. On trouve
+‚ dq q 212² αἳξ (σ,ι -o‚,)
+
+(⁰) dr -— *⁴75 Ξ - ” '252‘bess αἳ) ’ ’
+
+Si l'on adopte la theorie de la viscosite fondee sur l'hypothesc
+de la relaxation‚ on peut consideret· les equations precedentes (3)
+et (5) comme des relations exactes approximativement. Pour mettre
+ce point en evidence examinons, par exemplo, les resultats aux-
+quels est arrive M. Zaremba dans sa deuxieme ¹) Communication
+relative au probleme qui nous occupe. La quantite (1) dont nous
+desirons calculer la valeur est identique a 13 quantite rdzpldr de
+M. Zaremba3 par consequent l'equation (7), page 612, du Me—
+moire cite de M. Zaremba permettra aisement de determinet· 13.
+valeur de la quantite (1). On s'assure, en effectuant ce calcul‚ que
+l’expression exacte que l'on obtient pourra et devra ²) etre templa-
+cee par la formule approchee que voici:
+
+dq q C
+(6) . dr —J :z νῖ ““
+0 designant une constante arbitraire3 or l'equation (6) est equiva-
+lente a la seconde equation du systeme (3).
+Les equations (1) du ξ 5. conduisent aux memes resultats.
+
+Pom· le prouver observons tout d’abord que les deux premieres·
+equations du systeme (1), ξ 5, donnent evidemment
+
+dc*
+(7) *dt-²0·
+
+Oette equation est le resultat des hypotheses faites sur la nature·
+
+¹) Ball. Int. de l‘Acad. d. Sc. do Cracovie pour 1903, p. 611.
+²) Voir en particulior les remarques faites par M. Zarcmba ὸ, 13 page 613„
+ἐι l’occasion d‘un calcal analogue.
+

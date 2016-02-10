@@ -1,0 +1,42 @@
+45
+
+Die angegebenen Ergebnisse lassen sich dahin erklaren‚ dass in
+dem veranderlichen Felde‚ welches unter der Einwirkung von Wech·
+selstrom im Dielektricum sich hilda, die Kraftlinien sich gegen
+den Rand zu verdichten und deshalb doch den Durchbruch erleich-
+tern. Man kann den Dur'chbruch am Raude vermeiden durch Ver-
+dickung des Rande8‚ wobei aber jede scharfe Kante zu vermeiden
+ist3 was durch einen moglichst feinen Ubergang erreicht wird. ,Je
+dicker das zu Grunde liegende -Dielektrieum in der Cbergangs-
+stelle ist und Je kleiner das Verbaltnis der Dielektrizitatskonstante
+dee Dielektricum‚ welches verswrkt werden soll} zu der des zur
+Verstarkung benutzten ist, desto besser wird den Anforderungcn
+eines „feinen Uberganges“ entsprochen.
+
+Aue dem 3. Punkte der Ergebnisse sieht man, dass man den
+Festigkeitskoeffizienten eines Diel ·ktricums genau bestimmen kann,
+deun er wird nur von der Frequenz des Ladestromee und der F orm
+der Spannungskurve abhangen. Fur gewsshnliches Glas haben wir γ
+bei lVechselstrOmen von 50 P. p. Sek. und einer einusoidalen Welle
+gesunden, dass-der Durchbruch bei einem Potentialgefalle von an-
+
+niihernd 130 10⁴ V« stattfindet.
+
+cm
+
+Dass die Dicke des Dielektricums schneller wachst als die zum
+Durehbruch am Raude notige Spannuug‚ erklart sich dadum-h, dass
+wir am Rande kein homogenes F eld haben, die Kraftlinien bezugl.
+Niveauflaehen daselbst nicht parallel verlaufen3 die Niveauflachen
+werden vielmehr zur Kante hin, welche der Rand des Belages bildeu
+zusammengedrnngn und so wachst auch das Potentialgefalle in den
+der Kante des Belages zunachst gelegenen Teilen des DielektrieumS.
+Aue Punkt 5 ersehen wir endlich, dass der Durchbruch nicht,
+nur durch die Grcsse des Potentialgefalles bedingt ist. sondern auch
+durch die Geschwindigkeit, mit welcher die dielektrische Verschie-
+
+hung stam-findet.
+
+Ausgefflhrt im physikalischen Laboratorium der Universitstt in Freiburg i. d-
+Schweiz.
+

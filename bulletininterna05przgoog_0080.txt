@@ -1,0 +1,43 @@
+61
+
+et il en resulto immediatement le congruenee de Jacobi (4).
+
+2. Dans le eas particulier de u=m= Hss—-1-‚ la congruenee d’Euler
+
+2
+
+ν’· ·ῑ- (Ξ) (mod- Ρ),
+
+οὺ 16 seeond membre est le symbole de Legendre habitueL fait voir
+que la fonction F„(ae) ou devient
+
+,μί
+
+Q(oe>=2‘(})x·⁴‚
+
+ναί
+
+(1ὀὺ la congruenee (ὃ).
+Nous en allons tirer une forme congrue suivant le medule p
+
+du polynome
+P,(x)= -ω]Σ(-1ὀ’)ων, (12)
+„fid
+somme des m· derniers termes du polynssme —ml φα).
+Soit ὲ eet effet
+
+Y-(ll) = „y” 'i- ⁶-÷1y“†¹†⁰m÷²y”'†⁸†· · · ’‘i- θνα-Τ)
+
+τεῐΠΡΙεςοῃε y par :tt—1, et apres aveir developpe tous les termes
+du second membre suivant les puissunees de x, rejetons tons les
+termes contenent des puissunees inferieures ὲ μ’. Le polynssme
+qui reete devra &tre congru, suivant le medule p, ὲ, l’expression
+P,(ae)‚ eomme cela resulte immediatement dela congruenee (5). On
+aura done pour le module p
+
+P122>÷0fflffl÷a÷=bffl-('’²³s²)2·†¹]
+
+÷0n÷⁴[1··÷⁸—(’”ss³)ff†’÷(”“2t )
+÷cffl[2-⁴⁴-(mss⁴>ff÷2÷(m-2÷4)
+’ζ )
+
